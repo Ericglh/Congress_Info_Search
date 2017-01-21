@@ -2,4 +2,4 @@
 Open source php application for congress information search
 Author: Lianghao Gao
 
-Put the files under your Apache htdocs and run it directly.
+Clone the files to your Apache htdocs and run it directly.
